@@ -12,3 +12,5 @@ The obective of this project is to collect and bring all the data into R, clean 
 5. Gathers measurements on mean and STD on the mergedset data set
 6. Adds description to activity labels and other common variable names
 7. Creates a tidy data set for each activity and subject/participant (as referred to, in my code) and saves it to Tidy.txt
+
+The R code for the above is saved to run_analysis.R
